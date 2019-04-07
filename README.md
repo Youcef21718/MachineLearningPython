@@ -1,2 +1,2 @@
 # MachineLearningPython
-ML algorithms implemented in Python
+Various ML algorithms implemented in Python
